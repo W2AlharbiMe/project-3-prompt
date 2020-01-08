@@ -43,7 +43,7 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 11/7 at 10am**!  
+Projects are due **Thursday, 16/1 at 10am**!  
 
 Submissions will be submitted by posting into slack
 - the recorded video demo 
