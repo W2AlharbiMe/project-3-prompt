@@ -82,8 +82,8 @@ The recorded video demo must be a **10-20 minute presentation** in which you ans
 - **[GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)** _(for working with Markdown)_
 ---
 ## Useful Website
-- **[Alboardman](https://alboardman.tumblr.com/)
-- **[Find and Connect to Thousands of APIs](https://rapidapi.com/)
-- **[programmableweb](https://www.programmableweb.com/category/all/apis)
-- **[A collective list of free APIs](https://github.com/public-apis/public-apis)
+- **[Alboardman](https://alboardman.tumblr.com/)**
+- **[Find and Connect to Thousands of APIs](https://rapidapi.com/)**
+- **[programmableweb](https://www.programmableweb.com/category/all/apis)**
+- **[A collective list of free APIs](https://github.com/public-apis/public-apis)**
 
